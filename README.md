@@ -47,7 +47,7 @@ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 <font color=red>2.python版本使用3.9</font> 
 
-<font color=Red>3.模型包和语音包太大了所以就不上传了 需要模型包可以去[【ChatGLM】本地版ChatGPT？6G显存可用！ChatGLM-6B 清华开源模型一键包发布 可更新](https://www.bilibili.com/video/BV1E24y1u7Go) 下载 我的模型包就是来自那里 直接将chatglm-6b中的内容全部复制到model中 语音包在此处 https://pan.baidu.com/s/1pv0BubXrMaGq0trw8J8cFw?pwd=6666font> 
+<font color=Red>3.模型包和语音包太大了所以就不上传了 需要模型包可以去[【ChatGLM】本地版ChatGPT？6G显存可用！ChatGLM-6B 清华开源模型一键包发布 可更新](https://www.bilibili.com/video/BV1E24y1u7Go) 下载 我的模型包就是来自那里 直接将chatglm-6b中的内容全部复制到model中 语音包在此处 https://pan.baidu.com/s/1pv0BubXrMaGq0trw8J8cFw?pwd=6666<font> 
 
 ### 安装L2D
 
