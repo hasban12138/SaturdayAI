@@ -47,9 +47,9 @@ Download[nltk_data](https://gitee.com/link?target=https%3A%2F%2Fpaddlespeech.bj.
 
 <font color=red>2.python version need 3.9</font> 
 
-<font color=Red>3.Module and voice are too big .So I would't upload it. You can find it in[【ChatGLM】本地版ChatGPT？6G显存可用！ChatGLM-6B 清华开源模型一键包发布 可更新](https://www.bilibili.com/video/BV1E24y1u7Go) My module is from that. Copy all the content in chatglm-6b to the model. Voice is here: https://pan.baidu.com/s/1pv0BubXrMaGq0trw8J8cFw?pwd=6666</font> 
+<font color=Red>3.Module and voice are too big .So I would't upload it. You can find it in[【ChatGLM】本地版ChatGPT？6G显存可用！ChatGLM-6B 清华开源模型一键包发布 可更新](https://www.bilibili.com/video/BV1E24y1u7Go) My module is from that. Copy all the content in chatglm-6b to the module. Voice is here: https://pan.baidu.com/s/1pv0BubXrMaGq0trw8J8cFw?pwd=6666</font> 
 
-### Inatll L2D
+### Insatll L2D
 
 Dwonload [Live2DMascot](https://github.com/Arkueid/Live2DMascot)
 
