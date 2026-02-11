@@ -1,0 +1,9 @@
+cpm_kernels==1.0.11
+Flask==2.2.3
+icetk==0.0.4
+numpy==1.23.5
+paddlespeech==1.4.1
+soundfile==0.12.1
+tensorflow==2.12.0
+torch
+transformers==4.26.0
